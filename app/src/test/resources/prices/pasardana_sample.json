@@ -1,0 +1,23 @@
+[
+ {
+  "Id": 384,
+  "Name": "BNI AM Dana Pasar Uang Kemilau Kelas A",
+  "NetAssetValue": 2438.71,
+  "LastUpdate": "2026-11-13T00:00:00",
+  "Type": 3
+ },
+ {
+  "Id": 785,
+  "Name": "BRI Seruni Pasar Uang II Kelas A",
+  "NetAssetValue": 1932.1772,
+  "LastUpdate": "2026-11-13T00:00:00",
+  "Type": 3
+ },
+ {
+  "Id": 1106,
+  "Name": "Mandiri Investa Pasar Uang Kelas A",
+  "NetAssetValue": 1864.94,
+  "LastUpdate": "2026-11-13T00:00:00",
+  "Type": 3
+ }
+]

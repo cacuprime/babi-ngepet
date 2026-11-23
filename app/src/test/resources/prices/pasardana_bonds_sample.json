@@ -1,0 +1,32 @@
+[
+ {
+  "Id": 3799,
+  "Name": "OBLIGASI NEGARA REPUBLIK INDONESIA SERI FR0098",
+  "SecurityCode": "FR0098",
+  "Type": "G",
+  "MatureDate": "2038-06-15T00:00:00",
+  "InterestRate": 0.07125,
+  "InterestFrequency": "S",
+  "Currency": "IDR",
+  "IsActive": true,
+  "BondLastData": {
+   "LastPrice": 95.251,
+   "DateModified": "2026-11-13T17:51:54.103"
+  }
+ },
+ {
+  "Id": 3991,
+  "Name": "OBLIGASI NEGARA REPUBLIK INDONESIA SERI FR0100",
+  "SecurityCode": "FR0100",
+  "Type": "G",
+  "MatureDate": "2034-09-15T00:00:00",
+  "InterestRate": 0.06625,
+  "InterestFrequency": "S",
+  "Currency": "IDR",
+  "IsActive": true,
+  "BondLastData": {
+   "LastPrice": 97.5,
+   "DateModified": "2026-11-13T17:51:54.103"
+  }
+ }
+]

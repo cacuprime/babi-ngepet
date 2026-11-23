@@ -1,0 +1,29 @@
+LAPORAN REKENING
+: 01 Okt - 31 Okt 2026
+PERIODE LAPORAN
+BUDI CONTOH
+JL CONTOH NO 1
+Date & Time Detail Transaksi No Reff Debit Kredit Saldo
+05 Okt 2026
+09:30
+Toko Contoh Jaya
+Dana Keluar | TRF Ke - TOKO CONTOH
+JAYA
+FT2600000AB1 150.000,00 0,00 4.850.000,00
+12 Okt 2026
+14:05
+PT Kantor Fiktif
+Dana Masuk | TRF Dari - PT KANTOR
+GJ2600000CD2 0,00 2.000.000,00 6.850.000,00
+30 Okt 2026
+20:11
+Sipaling Bakso
+Pembayaran QRIS 9360001234567890
+QR2600000EF3 25.500,00 0,00 6.824.500,00
+Saldo Awal : 5.000.000,00
+Mutasi Debit : 175.500,00
+Mutasi Kredit : 2.000.000,00
+Saldo Akhir :
+6.824.500,00
+DISCLAIMER
+1. e-Statement ini merupakan dokumen yang diterbitkan oleh sistem.

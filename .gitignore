@@ -1,0 +1,10 @@
+build/
+.gradle/
+.kotlin/
+local.properties
+keystore.properties
+*.jks
+*.apk
+app/src/main/assets/starting_data.json
+.superpowers/
+.idea/
